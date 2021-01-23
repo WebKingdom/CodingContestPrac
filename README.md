@@ -1,2 +1,2 @@
 # CodingContestPrac
-Repository for most coding practice problems during ICPC and personal development
+Repository for most coding practice problems during ICPC and for my personal development
